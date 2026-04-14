@@ -77,8 +77,8 @@ geek2fix/
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/geek2fix.git
-   cd geek2fix
+   git clone https://github.com/awais-sufi/Clothing-Ecommerce.git
+   cd Clothing-Ecommerce
    ```
 
 2. Install server dependencies:
